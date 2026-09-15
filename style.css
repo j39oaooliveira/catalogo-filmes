@@ -1,0 +1,80 @@
+body{
+background: #9b462a;
+background: linear-gradient(90deg, rgba(155, 70, 42, 1) 0%, rgba(49, 54, 53, 1) 100%, rgba(38, 38, 34, 1) 50%);
+ color: #fff;
+}
+
+.cabecalho{
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+     background: linear-gradient(to right, #000, #222); /* gradiente suave */
+   
+}
+
+.caixa{ 
+    display:flex;
+    justify-content: center; 
+    gap:    30px; 
+    flex-wrap: wrap; 
+}
+
+.aranha img   {
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+    vector-effect: non-rotation;
+}
+
+.impuros img{
+    width: 240px;
+    height: 320px;
+    object-fit: cover; 
+}
+
+.protetor img{
+     width: 240px;
+    height: 320px;
+    object-fit: cover;
+}
+
+.caixaa{
+    display: flex;
+    justify-content:center; 
+    gap: 30px; 
+    flex-wrap:wrap;     
+}
+
+.branco img{
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+} 
+
+.toystory img{
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+}
+
+.gol img{
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+}
+
+.opaio img{
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+}
+.truquemestre img {
+    width: 240px;
+    height: 320px;
+    object-fit: cover;
+}
+
+footer{
+   font-size: medium;
+   text-align: center;
+} 
